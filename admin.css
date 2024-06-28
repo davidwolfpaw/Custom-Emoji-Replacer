@@ -1,0 +1,18 @@
+.emoji-replacer-item {
+    margin-bottom: 20px;
+    display: flex;
+    gap: 10px;
+}
+
+.emoji-replacer-item input[type="text"] {
+    font-size: 24px;
+    padding: 2px 4px;
+    line-height: 1;
+    max-width: 100px;
+    text-align: center;
+}
+
+.emoji-replacer-item img {
+    max-width: 30px;
+    max-height: 30px;
+}

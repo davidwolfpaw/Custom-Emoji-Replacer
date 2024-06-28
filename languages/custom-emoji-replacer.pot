@@ -1,0 +1,88 @@
+# Copyright (C) 2024 wolfpaw
+# This file is distributed under the GPLv3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Emoji Replacer 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/custom-emoji-replacer\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-06-28T15:25:25+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: custom-emoji-replacer\n"
+
+#. Plugin Name of the plugin
+#: custom-emoji-replacer.php
+msgid "Custom Emoji Replacer"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: custom-emoji-replacer.php
+msgid "https://david.garden/"
+msgstr ""
+
+#. Description of the plugin
+#: custom-emoji-replacer.php
+msgid "Replace emojis with custom images in your site content."
+msgstr ""
+
+#. Author of the plugin
+#: custom-emoji-replacer.php
+msgid "wolfpaw"
+msgstr ""
+
+#. Author URI of the plugin
+#: custom-emoji-replacer.php
+msgid "https://david.garden/plugins"
+msgstr ""
+
+#: custom-emoji-replacer.php:49
+#: custom-emoji-replacer.php:63
+msgid "Emoji Replacer Settings"
+msgstr ""
+
+#: custom-emoji-replacer.php:50
+msgid "Emoji Replacer"
+msgstr ""
+
+#: custom-emoji-replacer.php:64
+msgid "Choose an emoji that you will use on your site. Then choose an image that will replace that emoji."
+msgstr ""
+
+#: custom-emoji-replacer.php:85
+msgid "Emoji Replacement Settings"
+msgstr ""
+
+#: custom-emoji-replacer.php:92
+msgid "Emoji Replacements"
+msgstr ""
+
+#: custom-emoji-replacer.php:134
+#: custom-emoji-replacer.php:187
+msgid "Emoji"
+msgstr ""
+
+#: custom-emoji-replacer.php:136
+#: custom-emoji-replacer.php:188
+msgid "Select Image"
+msgstr ""
+
+#: custom-emoji-replacer.php:137
+#: custom-emoji-replacer.php:191
+msgid "Delete"
+msgstr ""
+
+#: custom-emoji-replacer.php:144
+msgid "Add Emoji Replacement"
+msgstr ""
+
+#: custom-emoji-replacer.php:189
+msgid "Select or Upload an Image"
+msgstr ""
+
+#: custom-emoji-replacer.php:190
+msgid "Use this image"
+msgstr ""
