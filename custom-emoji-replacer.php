@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Custom Emoji Replacer
-Plugin URI: https://david.garden/
+Plugin URI: https://david.garden/plugins
 Description: Replace emojis with custom images in your site content.
 Version: 1.0
 Author: wolfpaw
-Author URI: https://david.garden/plugins
+Author URI: https://david.garden/
 License: GPLv3 or later
 Text Domain: custom-emoji-replacer
 Domain Path: /languages
