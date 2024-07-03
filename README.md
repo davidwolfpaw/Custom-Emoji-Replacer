@@ -48,6 +48,8 @@ Yes, you can add multiple emoji replacements, each with its own custom image.
 1. **Example of content with emojis replaced by custom images.**
 ![**Example of content with emojis replaced by custom images.**](screenshots/screenshot3.jpg "**Example of content with emojis replaced by custom images.**")
 
+[Bowie emoji by L James](https://l-james.com/)
+
 ## Changelog
 
 ### 1.0
